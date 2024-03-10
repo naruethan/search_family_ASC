@@ -17,7 +17,7 @@ Result: Not Found
 ![image](https://github.com/naruethan/search_family_ASC/assets/38663837/9b0f045e-248b-40c7-b3bf-0447eb15b34f)
 
 
+Develop by Visual Studio 2022 and .net framework 6.0
 
 Microsoft.EntityFrameworkCore.sqlserver  v 6.0.0
-
 Microsoft.EntityFrameworkCore.Tools v 6.0.0
